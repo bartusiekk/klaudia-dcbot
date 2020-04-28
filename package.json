@@ -1,0 +1,23 @@
+{
+  "name": "klaudia",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartusiekk/klaudia-dcbot.git"
+  },
+  "author": "bartusiekk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bartusiekk/klaudia-dcbot/issues"
+  },
+  "homepage": "https://github.com/bartusiekk/klaudia-dcbot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "enmap": "^5.2.4"
+  }
+}
